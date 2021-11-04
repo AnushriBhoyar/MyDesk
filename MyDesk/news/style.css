@@ -1,0 +1,13 @@
+body {
+    background-image: url(news.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}    
+
+span.badge.badge-secondary {
+    background-color: #343a40!important;
+}
+
+button.btn.btn-link.collapsed {
+    color: rgb(131 12 67);
+}
